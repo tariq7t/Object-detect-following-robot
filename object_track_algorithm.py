@@ -67,7 +67,7 @@ def track():
         sys.exit()
 # From the image moments, if I want to move my robot, I can do the following:
 # Take x,y and area for function
-
+# Function to move the robot.
 def move_elee(x, y, area):
     # If x is greater than 350, not 320 on purpose for lax
     # Or else it keeps moving all the time
