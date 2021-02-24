@@ -1,6 +1,6 @@
 # Extraterrestrial Life Evaluator- Earth Class ELE-E (Fall 2019) – Autonomous Object Detecting & Following Robot
 
-Used OpenCV Library in Python to implement algorithms for the movement of robot. The robot detects an object pre-specified and proceeds to continuously follow it while remaining at a distance.
+## Used OpenCV Library in Python to implement algorithms for the movement of robot. The robot detects an object pre-specified and proceeds to continuously follow it while remaining at a distance.
 
 - Implemented object recognition though OpenCV
 - Operated robot on a Raspberry PI powered with portable charger as power source. Used a Logitech webcam for video input.
