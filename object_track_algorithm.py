@@ -23,7 +23,7 @@ import time
 cap = cv2.VideoCapture(0)
 cap.set(3, 640)
 cap.set(4, 480)
-n = "tariq"
+
 
 
 # Screen size smaller will make it faster
