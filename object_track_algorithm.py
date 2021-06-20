@@ -6,6 +6,7 @@
 # For moving close to the object, I used the area of the object(Larger it is, closer it is)
 # For it being sideways, I set up a midpoint and everytime it went past 320(center of frame),
 # my robot would pan towards it.
+# Test commit for Raspberry Pi 4
 
 import cv2
 import numpy as np
