@@ -6,7 +6,8 @@
 # For moving close to the object, I used the area of the object(Larger it is, closer it is)
 # For it being sideways, I set up a midpoint and everytime it went past 320(center of frame),
 # my robot would pan towards it.
-# Test commit for Raspberry Pi 4
+# Test commit for Raspberry Pi 4 tariq
+
 
 import cv2
 import numpy as np
@@ -22,6 +23,7 @@ import time
 cap = cv2.VideoCapture(0)
 cap.set(3, 640)
 cap.set(4, 480)
+n = "tariq"
 
 
 # Screen size smaller will make it faster
